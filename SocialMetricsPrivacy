@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sosyal Metrics - Gizlilik Politikası</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sosyal Metrics - Gizlilik Politikası</h1>
+
+        <h2>1. Giriş</h2>
+        <p>Bu Gizlilik Politikası, Sosyal Metric uygulamasının kullanıcı verilerini nasıl topladığını, kullandığını ve koruduğunu açıklamaktadır.</p>
+
+        <h2>2. Toplanan Veriler</h2>
+        <p>Sosyal Metric uygulaması, sosyal medya analizleri için kullanıcı hesap bilgilerini ve etkileşim verilerini işleyebilir.</p>
+
+        <h2>3. Çerezler ve İzleme Teknolojileri</h2>
+        <p>Uygulama, kullanıcı deneyimini geliştirmek amacıyla çerezler veya benzeri izleme teknolojileri kullanabilir.</p>
+
+        <h2>4. Verilerin Kullanımı</h2>
+        <p>Toplanan veriler yalnızca analiz ve istatistik amaçlı kullanılmaktadır ve üçüncü taraflarla paylaşılmaz.</p>
+
+        <h2>5. Güvenlik</h2>
+        <p>Kullanıcı verileri, yetkisiz erişime karşı endüstri standartlarına uygun olarak korunmaktadır.</p>
+
+        <h2>6. Üçüncü Taraf Bağlantılar</h2>
+        <p>Uygulama, sosyal medya platformlarıyla entegre olabilir. İlgili platformların gizlilik politikalarını incelemenizi öneririz.</p>
+
+        <h2>7. Gizlilik Politikasındaki Değişiklikler</h2>
+        <p>Gizlilik politikamız zaman zaman güncellenebilir. Güncellemeler bu sayfada yayınlanacaktır.</p>
+
+        <h2>8. İletişim</h2>
+        <p>Herhangi bir sorunuz için bizimle <a href="mailto:ibrahimkoc.developer@gmail.com">ibrahimkoc.developer@gmail.com</a> adresinden iletişime geçebilirsiniz.</p>
+    </div>
+</body>
+</html>
